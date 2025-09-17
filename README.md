@@ -92,7 +92,7 @@ Go to: http://localhost/task-management-system
 
 🔐 Default Login Credentials
 Role	Username	Password
-Admin	admin@gmail.com	admin123
+Admin	admin@admin.com	admin123
 Manager	manager@example.com	manager123(can create by new project manager)
 Employee	employee@example.com	employee123 (can create by new employee)
 
